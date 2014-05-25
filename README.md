@@ -1,5 +1,5 @@
 #days
-> shortcuts to get today, yesterday and tommorrw
+> shortcuts to get today, yesterday and tomorrow
 
 ##install
 
