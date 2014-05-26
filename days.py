@@ -11,3 +11,9 @@ def yesterday():
 
 def tommorrow():
 	return today() + timedelta(days=1)
+
+def next_week():
+	return today() + timedelta(days=7)
+
+def last_week():
+	return today() + timedelta(days=-7)
